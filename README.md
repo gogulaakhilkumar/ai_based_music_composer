@@ -2,6 +2,12 @@
 
 An expressive, AI-powered music generation app built with Streamlit. It analyzes emotional input and composes music parameters while recommending Telugu songs that match the mood — complete with YouTube previews.
 
+## 👨‍💻 Author
+
+**Akhil Gogula**  
+B.Tech Student | Infosys Intern | AI Music Explorer  
+📫 [akhil.gogula12@gmail.com](mailto:akhil.gogula12@gmail.com)
+
 ## 🚀 Live Demo
 [Click to Launch the App](https://aibasedmusiccomposer-uwemgxhiscmecuhana9me7.streamlit.app/)
 
@@ -31,8 +37,4 @@ cd ai_based_music_composer
 pip install -r requirements.txt
 streamlit run app.py
 
-## 👨‍💻 Author
 
-**Akhil Gogula**  
-B.Tech Student | Infosys Intern | AI Music Explorer  
-📫 [akhilgogula155@gmail.com](mailto:akhilgogula155@gmail.com
